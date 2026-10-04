@@ -1,8 +1,6 @@
 # HelloWorkshop
 
-Aplikacja konsolowa .NET stworzenia podczas laboratorium.
+Aplikacja konsolowa .NET stworzona podczas laboratorium.
 
-## Uruchomienie
-\`\`\`bash
-dotnet run
-\`\`\`
+## Kontakt
+Autor: Patryk Szweda
