@@ -5,3 +5,10 @@
 
 ## O mnie
 Mam 21 lat, interesuję się grami, kinematorgrafią oraz historią.
+
+## Dotychczasowe doświadczenie z infomatyką
+Jestem po **technikum informatycznym**, gdzie poza standardowymi hardware'owymi rzeczami nauczyłem się m.in:
+- *HTML*
+- *CSS*
+- *PHP*
+- *mySQL*
