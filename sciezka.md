@@ -12,3 +12,9 @@ Jestem po **technikum informatycznym**, gdzie poza standardowymi hardware'owymi 
 - *CSS*
 - *PHP*
 - *mySQL*
+
+## Cele studiów i plan rozwoju
+Wgłębienie się w infomatyke, w szczególnośći z zakresu programowania oraz znalezienie pracy w branży związanej z programowaniem lub pokrewnej.
+
+## Dotychczasowe projekty
+**[Dziennik elektroniczny](https://github.com/PatrykSzweda/Dziennik-Elektroniczny)** projekt na rzecz technikum, zaprojektowany oraz utworzony w pełni przeze mnie od początku do końca.
